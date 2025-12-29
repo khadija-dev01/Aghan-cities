@@ -20,4 +20,10 @@ This is especially useful for students and developers working with **geographica
 ---
 
 ## 📁 Project Structure
+Aghan-Cities/
+├── data/ # Folder with dataset files
+│ ├── cities.json
+│ ├── provinces.json
+│ └── districts.json
+├── README.md
 
