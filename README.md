@@ -19,11 +19,7 @@ This is especially useful for students and developers working with **geographica
 
 ---
 
-## 📁 Project Structure
-Aghan-Cities/
-├── data/ # Folder with dataset files
-│ ├── cities.json
-│ ├── provinces.json
-│ └── districts.json
-├── README.md
+📌 About the Author
 
+Hello! I am Khadija, a computer science student learning web and software development.
+This project is part of my journey to build real world datasets and practical tools that can help others.
